@@ -49,6 +49,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 - [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
 - [OpenZeppelin Relayer x402 Facilitator](https://docs.openzeppelin.com/relayer/guides/stellar-x402-facilitator-guide) - Stellar x402 facilitator plugin for payment verification and settlement via OpenZeppelin Relayer.
+- [Central City Facilitator (Base)](https://centralcity.ai/docs/x402-facilitator.md) - Public x402 v2 facilitator for exact USDC payments on Base via EIP-3009, including ERC-1271 smart-account payers; no API key. [`/supported`](https://centralcity.ai/x402/facilitator/supported)
 
 
 ### Open Source & SDKs
